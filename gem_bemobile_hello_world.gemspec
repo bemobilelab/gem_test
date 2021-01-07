@@ -8,17 +8,17 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Erick Medina"]
   spec.email         = ["emedina@bemobile.es"]
 
-  spec.summary       = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description   = "TODO: Write a longer description or delete this line."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Bemobile Gem for testing purposes"
+  spec.description   = "This is a gem that prints a name for testing purposes only"
+  spec.homepage      = "https://github.com/bemobilelab/gem_test"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
-  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/bemobilelab/gem_test"
+  spec.metadata["changelog_uri"] = "https://github.com/bemobilelab/gem_test/blob/master/README.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
